@@ -68,7 +68,7 @@ O projeto está estruturado em duas etapas obrigatórias, e a tarefa bônus, tam
 
 ## Data de Entrega
 
-  - Serão `1` dias de projeto.
+  - Será `1` dia de projeto.
   - Data de entrega para avaliação final do projeto: `06/04/2022 14:00`.
 
 ---
@@ -266,7 +266,7 @@ hamburguer
 {'sabado', 'segunda-feira'}
 ```
 
-> A órdem dos pedidos, bem como dos dias não precisa ser exatamente a apresentada no exemplo
+> A ordem dos pedidos, bem como dos dias não precisa ser exatamente a apresentada no exemplo
 
 - No arquivo analyze_log.py deve estar implementada a função `def analyze_log(path_to_file)`;
 
